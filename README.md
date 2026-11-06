@@ -10,6 +10,9 @@ The heart fills from the bottom according to battery level. Settings include nor
 
 Tested on a Redmi Note 13 Pro 4G (emerald), HyperOS `OS3.0.305.0.WNFMIXM`, Android 16, with a libxposed API 102 loader. SystemUI classes vary by ROM; other devices may behave differently.
 
+- Required at least android 10 and above
+- Most stable at HyperOS v3.0.305.0
+
 <table border="0">
   <tr>
     <td valign="top" width="50%">
@@ -28,3 +31,5 @@ Tested on a Redmi Note 13 Pro 4G (emerald), HyperOS `OS3.0.305.0.WNFMIXM`, Andro
   <img src="https://github.com/user-attachments/assets/1456da4a-43bb-4c65-8de2-de21bb016148" width="24%" alt="Screenshot 3" />
   <img src="https://github.com/user-attachments/assets/dd3c3f78-77b0-4403-8e56-14751d81014b" width="24%" alt="Screenshot 4" />
 </p>
+
+I should update here sometime properly .-.
